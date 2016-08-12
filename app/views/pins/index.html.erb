@@ -17,4 +17,7 @@
   </div> <!-- box div -->
       
     <% end %>
-</div> <!-- pins div ->
+</div> <!-- pins div -->
+<div class="center">
+<%= will_paginate @pins,renderer: BootstrapPagination::Rails %>
+</div>

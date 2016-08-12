@@ -14,6 +14,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'devise', '~> 4.2'
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
+gem 'will_paginate', '~> 3.1'	
+gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
